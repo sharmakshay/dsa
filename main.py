@@ -1,1 +1,4 @@
-print("hello world")
+from contains_duplicate import Solution
+
+
+
