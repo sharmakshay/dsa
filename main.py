@@ -12,3 +12,6 @@ __import__('02-medium.049_group_anagrams')
 
 print("\nTop K Frequent Elements ...")
 __import__('02-medium.347_top_k_frequent_elements')
+
+print("\nEncode and Decode Strings ...")
+__import__('02-medium.271_encode_and_decode_strings')
