@@ -18,3 +18,6 @@ __import__('02-medium.271_encode_and_decode_strings')
 
 print("\nProduct of Array Except Self ...")
 __import__('02-medium.238_product_of_array_except_self')
+
+print("\nValid Sudoku ...")
+__import__('02-medium.036_valid_sudoku')
