@@ -21,3 +21,6 @@ __import__('02-medium.238_product_of_array_except_self')
 
 print("\nValid Sudoku ...")
 __import__('02-medium.036_valid_sudoku')
+
+print("\nLongest Consecutive Sequence ...")
+__import__('02-medium.128_longest_consecutive_sequences')
