@@ -29,3 +29,6 @@ __import__('02-medium.128_longest_consecutive_sequences')
 
 print("\nValid Palindrome ...")
 __import__('01-easy.125_valid_palindrome')
+
+print("\nTwo Integer Sum II ...")
+__import__('02-medium.167_two_integer_sum_ii')
