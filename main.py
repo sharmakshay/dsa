@@ -32,3 +32,6 @@ __import__('01-easy.125_valid_palindrome')
 
 print("\nTwo Integer Sum II ...")
 __import__('02-medium.167_two_integer_sum_ii')
+
+print("\n3Sum ...")
+__import__('02-medium.015_3sum')
