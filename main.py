@@ -38,3 +38,6 @@ __import__('02-medium.015_3sum')
 
 print("\nContainer With Most Water ...")
 __import__('02-medium.011_container_with_most_water')
+
+print("\nTrapping Rain Water ...")
+__import__('03-hard.042_trapping_rain_water')
