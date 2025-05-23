@@ -41,3 +41,6 @@ __import__('02-medium.011_container_with_most_water')
 
 print("\nTrapping Rain Water ...")
 __import__('03-hard.042_trapping_rain_water')
+
+print("\nMerge Sorted Array ...")
+__import__('01-easy.088_merge_sorted_array')
