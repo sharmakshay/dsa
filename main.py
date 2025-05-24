@@ -44,3 +44,6 @@ __import__('03-hard.042_trapping_rain_water')
 
 print("\nMerge Sorted Array ...")
 __import__('01-easy.088_merge_sorted_array')
+
+print("\nBest Time to Buy and Sell Stock ...")
+__import__('01-easy.121_best_time_to_buy_and_sell_stock')
