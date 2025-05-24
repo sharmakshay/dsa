@@ -47,3 +47,6 @@ __import__('01-easy.088_merge_sorted_array')
 
 print("\nBest Time to Buy and Sell Stock ...")
 __import__('01-easy.121_best_time_to_buy_and_sell_stock')
+
+print("\nMinimum Remove to Make Valid Parenthesis ...")
+__import__('02-medium.1249_minimum_remove_to_make_valid_parenthesis')
