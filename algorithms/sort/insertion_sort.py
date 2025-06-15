@@ -1,3 +1,7 @@
+# time complexity: O(n^2)
+# space complexity: O(1)
+
+
 def insertion_sort(nums):
     for idx, num in enumerate(nums):
         j = idx
